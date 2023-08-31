@@ -1,0 +1,18 @@
+{
+  "entries": [
+    "components/cm-date/cm-date.js",
+    "components/cm-mainweather/cm-mainweather.js",
+    "components/cm-menu/cm-menu.js",
+    "components/cm-menu-item/cm-menu-item.js",
+    "components/cm-sunmoonimage/cm-sunmoonimage.js",
+    "components/cm-temperature/cm-temperature.js",
+    "components/cm-weather/cm-weather.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.1.0",
+    "typescriptVersion": "5.0.4"
+  },
+  "collections": [],
+  "bundles": []
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Weather.js","sourceRoot":"","sources":["../../src/model/Weather.ts"],"names":[],"mappings":"AAAA,MAAM,OAAO,OAAO;CAQnB","sourcesContent":["export class Weather{\r\n    humidity: number;\r\n    feels_like: number;\r\n    temp_max: number;\r\n    temp_min: number;\r\n    description: string;\r\n    date: Date;\r\n    windspeed: number;\r\n}"]}
